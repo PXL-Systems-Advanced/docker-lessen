@@ -3,4 +3,9 @@
 Repository voor gebruik tijdens de docker lessen.
 
 ## Les: docker containers bouwen en distribueren
-[dockertest](/dockertest)
+- een Dockerfile maken: [dockertest](/dockertest)
+- Dockerfile ENTRYPOINT: [docker-test2](/docker-test2)
+- Dockerfile ENV: [docker-test3](/docker-test2)
+- Dockerfile ADD: [python-test1](/python-test1)
+- Dockerfile USER: [python-test2](/python-test2)
+- Oefening - images maken en pushen: [python-oef1](/python-oef1)
