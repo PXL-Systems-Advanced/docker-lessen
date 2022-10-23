@@ -11,5 +11,5 @@ Repository voor gebruik tijdens de docker lessen.
 - Oefening - images maken en pushen: [python-oef1](/python-oef1)
 
 ## Les: Docker Compose & Compose Secrets
-- Een Compose voorbeeld: [python-oef1](/python-oef1)
+- Een Compose voorbeeld: [compose-python-voorbeeld](/compose-python-voorbeeld)
 - Docker Compose drupal voorbeeld: [drupal-voorbeeld](/drupal-voorbeeld)
