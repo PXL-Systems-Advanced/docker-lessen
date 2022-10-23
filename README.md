@@ -9,3 +9,7 @@ Repository voor gebruik tijdens de docker lessen.
 - Dockerfile ADD: [python-test1](/python-test1)
 - Dockerfile USER: [python-test2](/python-test2)
 - Oefening - images maken en pushen: [python-oef1](/python-oef1)
+
+## Les: Docker Compose & Compose Secrets
+- Een Compose voorbeeld: [python-oef1](/python-oef1)
+- Docker Compose drupal voorbeeld: [drupal-voorbeeld](/drupal-voorbeeld)
