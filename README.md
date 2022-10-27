@@ -13,9 +13,6 @@ Repository met voorbeelden voor gebruik tijdens de docker lessen.
 - Dockerfile USER: [python-test2](/python-test2)
 - Oefening - images maken en pushen: [python-oef1](/python-oef1)
 
-## Les: docker networking
-- Container port forwarding voorbeeld: [alpine-nginx](/alpine-nginx)
-
 ## Les: Docker Compose & Compose Secrets
 - Een Compose voorbeeld: [compose-python-voorbeeld](/compose-python-voorbeeld)
 - Docker Compose drupal voorbeeld: [drupal-voorbeeld](/drupal-voorbeeld)
