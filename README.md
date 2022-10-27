@@ -1,6 +1,6 @@
 # docker-lessen
 
-Repository voor gebruik tijdens de docker lessen.
+Repository met voorbeelden voor gebruik tijdens de docker lessen.
 
 ## Les: docker containers bouwen en distribueren
 - een Dockerfile maken: [dockertest](/dockertest)
