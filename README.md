@@ -5,7 +5,7 @@ Repository met voorbeelden voor gebruik tijdens de docker lessen.
 ## Les: Containers runnen met docker CLI
 - Container States voorbeeld: [python-counter](/python-counter)
 
-## Les: docker containers bouwen en distribueren
+## Les: Docker containers bouwen en distribueren
 - een Dockerfile maken: [dockertest](/dockertest)
 - Dockerfile ENTRYPOINT: [docker-test2](/docker-test2)
 - Dockerfile ENV: [docker-test3](/docker-test2)
