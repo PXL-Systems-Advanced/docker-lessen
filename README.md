@@ -10,6 +10,9 @@ Repository met voorbeelden voor gebruik tijdens de docker lessen.
 - Dockerfile USER: [python-test2](/python-test2)
 - Oefening - images maken en pushen: [python-oef1](/python-oef1)
 
+## Les: Containers runnen met docker CLI
+- Container States voorbeeld: [python-counter](/python-counter)
+
 ## Les: Docker Compose & Compose Secrets
 - Een Compose voorbeeld: [compose-python-voorbeeld](/compose-python-voorbeeld)
 - Docker Compose drupal voorbeeld: [drupal-voorbeeld](/drupal-voorbeeld)
