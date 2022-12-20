@@ -1,9 +1,0 @@
-services:
-  database:
-    image: pxlsystemsadvanced/compose-oef-1-database
-    environment:
-      MYSQL_ROOT_PASSWORD: movie123
-  webapp:
-    image: pxlsystemsadvanced/compose-oef-1-webapp
-    ports:
-    - "8080:80"
